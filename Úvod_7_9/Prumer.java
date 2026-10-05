@@ -10,7 +10,7 @@ public class Prumer {
         int cislo = scanner.nextInt();
     }
 
-    public String MojePole(String [] arr) {
+    public String[] MojePole(String [] arr) {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = "Ahoj";
         }
