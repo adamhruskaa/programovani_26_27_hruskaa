@@ -1,7 +1,7 @@
 package ImmutableObject_5_10;
 
 public class MojePole {
-    String [] arr = new String[10];
+    private final String [] arr = new String[10];
 
     Logger log = Logger.getInstance();
 
